@@ -82,3 +82,5 @@ end
 
 gem "table_print"
 gem "faker"
+
+gem 'devise'
